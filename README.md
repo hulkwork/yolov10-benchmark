@@ -19,7 +19,7 @@ python main.py --video <video_path> --device <cpu/cuda>
 
 ## Benchmark
 
-I use [Intel Io Video](https://github.com/intel-iot-devkit/sample-videos?tab=readme-ov-file), exactly this [one](https://github.com/intel-iot-devkit/sample-videos/raw/master/store-aisle-detection.mp4).
+I use [Intel IoT Video](https://github.com/intel-iot-devkit/sample-videos?tab=readme-ov-file), exactly this [one](https://github.com/intel-iot-devkit/sample-videos/raw/master/store-aisle-detection.mp4).
 
 ### CPU
 ```
