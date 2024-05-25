@@ -52,7 +52,7 @@ I use [Intel Io Video](https://github.com/intel-iot-devkit/sample-videos?tab=rea
 
 ## Citation
 
-```
+```BibTeX
 @misc{wang2024yolov10,
       title={YOLOv10: Real-Time End-to-End Object Detection}, 
       author={Ao Wang and Hui Chen and Lihao Liu and Kai Chen and Zijia Lin and Jungong Han and Guiguang Ding},
