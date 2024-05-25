@@ -32,7 +32,7 @@ I use [Intel IoT Video](https://github.com/intel-iot-devkit/sample-videos?tab=re
     Model inference stats :
         Device : cpu Intel(R) Xeon(R) W-2155 CPU @ 3.30GHz
         Avg predict time : 0.03s
-        FPS : 2863.18fps
+        FPS : 28.63fps
 ```
 
 ### GPU
@@ -47,7 +47,7 @@ I use [Intel IoT Video](https://github.com/intel-iot-devkit/sample-videos?tab=re
     Model inference stats :
         Device : cuda:0 _CudaDeviceProperties(name='Quadro P5000', major=6, minor=1, total_memory=16278MB, multi_processor_count=20)
         Avg predict time : 0.01s
-        FPS : 10338.480878045548 fps
+        FPS : 103.38 fps
 ```
 
 ## Citation

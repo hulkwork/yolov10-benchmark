@@ -74,7 +74,7 @@ if __name__ == "__main__":
     Model inference stats :
     \tDevice : {model.device} {device}
     \tAvg predict time : {(total_time / length):.2f}s
-    \tFPS : {100/(total_time / length):.2f}fps
+    \tFPS : {1/(total_time / length):.2f}fps
 
 
 """
